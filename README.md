@@ -57,9 +57,10 @@ businesses across India.
 
 ## 📊 GitHub Activity
 
-![Zyndro1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyndro1&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyndro1&layout=compact&hide_border=true)
-
+- Active Frontend Development
+- Modern Responsive Web Design
+- HTML, CSS, JavaScript Projects
+- Client-Focused Website Development
 ---
 
 ## 📬 Start a Project With Us
