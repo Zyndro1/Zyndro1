@@ -66,6 +66,7 @@ businesses across India.
 ## 📬 Start a Project With Us
 
 📧 Pravinkr.webbud@gmail.com
+📧 onixeditz.business0@gmail.com
 📱 WhatsApp: [+91 6209497585](https://wa.link/ymfzuw)
 🌐 [zyndro1.github.io](https://zyndro1.github.io)
 
