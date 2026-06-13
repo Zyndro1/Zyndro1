@@ -1,11 +1,11 @@
 <!-- ZYNDRO GitHub Profile README -->
 <!-- Replace [your-whatsapp-number] and [your-email] -->
 
-[![Available for Projects](https://img.shields.io/badge/Status-Available%20for%20Projects-1d9e75?style=flat-square)](mailto:hello@zyndro.in)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20Us-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/[your-whatsapp-number])
+[![Available for Projects](https://img.shields.io/badge/Status-Available%20for%20Projects-1d9e75?style=flat-square)](mailto:pravinkr.webbud@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20Us-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.link/ymfzuw])
 [![Portfolio](https://img.shields.io/badge/Portfolio-zyndro1.github.io-0f6e56?style=flat-square&logo=github)](https://zyndro1.github.io)
 
-# Zyndro — Web Design for Indian Local Businesses 🇮🇳
+# WebBud Studio — Web Design for Indian Local Businesses 🇮🇳
 
 > We build fast, modern websites that help local businesses in India
 > attract more customers online. No templates. No bloat. Just clean,
@@ -15,7 +15,7 @@
 
 ## 🏢 Who We Are
 
-**Zyndro** is a frontend web design studio focused on helping Indian
+**WebBud Studio** is a frontend web design studio focused on helping Indian
 local businesses — restaurants, clinics, shops, and service providers —
 establish a strong online presence without the enterprise price tag.
 
@@ -65,8 +65,8 @@ businesses across India.
 
 ## 📬 Start a Project With Us
 
-📧 hello@zyndro.in
-📱 WhatsApp: [+91 6209497585](https://wa.me/916209497585)
+📧 Pravinkr.webbud@gmail.com
+📱 WhatsApp: [+91 6209497585](https://wa.link/ymfzuw)
 🌐 [zyndro1.github.io](https://zyndro1.github.io)
 
 *Based in India · Serving clients across Patna, Bihar & beyond*
