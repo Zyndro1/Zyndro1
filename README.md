@@ -3,7 +3,7 @@
 
 [![Available for Projects](https://img.shields.io/badge/Status-Available%20for%20Projects-1d9e75?style=flat-square)](mailto:pravinkr.webbud@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20Us-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.link/ymfzuw])
-[![Portfolio](https://img.shields.io/badge/Portfolio-zyndro1.github.io-0f6e56?style=flat-square&logo=github)](https://zyndro1.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zyndro1.github.io-0f6e56?style=flat-square&logo=github)](https://github.com/WebBudStudio)
 
 # WebBud Studio — Web Design for Indian Local Businesses 🇮🇳
 
